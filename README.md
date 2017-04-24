@@ -1,4 +1,7 @@
-# api documentation for  [ember-cli-accounting (v2.0.1)](https://github.com/cibernox/ember-cli-accounting)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-accounting.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-accounting) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-accounting.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-accounting)
+# npmdoc-ember-cli-accounting
+
+#### api documentation for  [ember-cli-accounting (v2.0.1)](https://github.com/cibernox/ember-cli-accounting)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-accounting.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-accounting) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-accounting.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-accounting)
+
 #### Ember CLI addon for using accounting.js
 
 [![NPM](https://nodei.co/npm/ember-cli-accounting.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-accounting)
@@ -90,7 +93,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
